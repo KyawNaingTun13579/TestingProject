@@ -46,7 +46,8 @@ public class ScoringSystem2 {
 			}
 
 			System.out.println("Do you want to continue (y/n) ?");
-			choice = getString().toLowerCase().charAt(0);
+
+			choice = getString().toLowerCase().charAt(0);		
 		} while (choice == 'y');
 
 		System.out.println("Thanks for Participation! See you Again, Thank you!");

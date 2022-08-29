@@ -886,3 +886,14 @@ public class ScoringSystem2 {
 		}
 	}
 }
+/*
+ * Future plans
+ * add more events
+ * add more type of participations
+ * add more team members
+ * add more rank scores
+ * add more validation methods
+ * limit team number to participate each event
+ * optimize workflow of codes
+ * 
+ * */
